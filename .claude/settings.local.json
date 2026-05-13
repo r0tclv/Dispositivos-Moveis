@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'C:/Projeto/Dispositivos Móveis' -name *.dart)",
+      "Bash(flutter analyze:*)"
+    ]
+  }
+}
